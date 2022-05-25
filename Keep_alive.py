@@ -1,3 +1,4 @@
+#Python script runnning Flask framework which pings the bot to stay active 
 from flask import Flask
 from threading import Thread
 
